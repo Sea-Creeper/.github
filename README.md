@@ -1,3 +1,3 @@
 # Deprecation notice
 
-Repositories moved to [https://github.com/stars/zxcV32/lists/sea-creeper](zxcV32/lists/sea-creeper)
+Repositories moved to [zxcV32/lists/sea-creeper](https://github.com/stars/zxcV32/lists/sea-creeper)
